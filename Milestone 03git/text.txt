@@ -1,0 +1,5 @@
+for change account type windows credentials in window search and remove git all loign  information
+
+try to change origin click ==> in treminal
+
+git remote remove origin 
